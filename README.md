@@ -41,6 +41,8 @@
 ```
 npm install 
 ```
+**运行项目：**
+npm run start
 
 # 详细使用文档
 
